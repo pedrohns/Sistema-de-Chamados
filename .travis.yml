@@ -1,6 +1,0 @@
-"language": "java",
-"before_script": "chmod +x ./build.xml",
-"script": "./build.xml",
-"group": "stable",
-"dist": "precise",
-"os": "linux"
